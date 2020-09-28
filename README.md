@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# youtubeClone
+Use react or you favourite front end framework to build a YouTube clone it should read list of videos from a database table and play it on web user interface.
+>>>>>>> 30490ed9b95222532b661d9b0810fe32d79e8093
